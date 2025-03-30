@@ -1,0 +1,2 @@
+# WSClimaWeather
+Politica de Privacidade
